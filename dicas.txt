@@ -1,0 +1,7 @@
+instalar bibliotecas
+yarn add express => para as requisições,  rotas, ect
+nodemon -D =>monitorar os arquivos
+mongoose => ORM abstração do banco de dados
+multer => acessar os arquivos pela requisição
+socket.io => realtime
+cors => limitar quem vai poder acessar a aplicação
